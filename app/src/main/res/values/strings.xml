@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Count</string>
+    <string name="greeting">Поздороваться</string>
+    <string name="count">Посчитаем</string>
+    <string name="backtxt">Назад</string>
+    <string name="nexttxt">Переход на другой экран</string>
+</resources>
